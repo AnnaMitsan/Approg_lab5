@@ -1,0 +1,44 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+    <body>
+        <script src="~/Content/jquery-1.7.1.min.js"></script>
+        <script type="text/javascript">
+            $(function () {
+                $('#btnInsertRecord').click(function (data) {
+                    $.post("@Url.Action("InsertBookDetail", "Book")", function (data) {
+                        if (data) {
+                            alert('Successfuly inserted!!');
+                        } else {
+                            alert('An error occured!');
+                        }
+                    });
+                });
+
+                $('#btnDisplay').click(function (data) {
+                    $.post("@Url.Action("GetBookDetails", "Book")", function (data) {
+                        if (data) {
+                            $('#divPartial').append(data);
+                        } else {
+                            alert('An error occured!');
+                        }
+                    });
+                });
+            });
+        </script>
+        <input type="button" value="InsertRecord" id="btnInsertRecord"/>
+        <input type="button" value="DisplayRecords" id="btnDisplay"/>
+        <div id="divPartial">
+          
+        </div>
+    </body>
+
+</html>

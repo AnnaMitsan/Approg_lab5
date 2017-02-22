@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirstModel", "CodeFirstModel\CodeFirstModel.csproj", "{549101EB-96E4-4DC8-B0D7-B6AFB6998BF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirstDataAccess", "CodeFirstDataAccess\CodeFirstDataAccess.csproj", "{4B5D7320-A338-4C66-8E34-909214AF601C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirstWebApp", "CodeFirstWebApp\CodeFirstWebApp.csproj", "{24019CDF-AA84-4129-B432-130274423381}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{549101EB-96E4-4DC8-B0D7-B6AFB6998BF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{549101EB-96E4-4DC8-B0D7-B6AFB6998BF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{549101EB-96E4-4DC8-B0D7-B6AFB6998BF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{549101EB-96E4-4DC8-B0D7-B6AFB6998BF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B5D7320-A338-4C66-8E34-909214AF601C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B5D7320-A338-4C66-8E34-909214AF601C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B5D7320-A338-4C66-8E34-909214AF601C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B5D7320-A338-4C66-8E34-909214AF601C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24019CDF-AA84-4129-B432-130274423381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24019CDF-AA84-4129-B432-130274423381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24019CDF-AA84-4129-B432-130274423381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24019CDF-AA84-4129-B432-130274423381}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

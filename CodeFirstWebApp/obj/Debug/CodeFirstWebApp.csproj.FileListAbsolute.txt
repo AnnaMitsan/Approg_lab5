@@ -1,0 +1,203 @@
+E:\Khem\Demo\CodeFirstDemoApplication\CodeFirstWebApp\obj\Debug\CodeFirstWebApp.csprojResolveAssemblyReference.cache
+E:\Khem\Demo\CodeFirstDemoApplication\CodeFirstWebApp\bin\CodeFirstWebApp.dll
+E:\Khem\Demo\CodeFirstDemoApplication\CodeFirstWebApp\bin\CodeFirstWebApp.pdb
+E:\Khem\Demo\CodeFirstDemoApplication\CodeFirstWebApp\bin\CodeFirstDataAccess.dll
+E:\Khem\Demo\CodeFirstDemoApplication\CodeFirstWebApp\bin\CodeFirstModel.dll
+E:\Khem\Demo\CodeFirstDemoApplication\CodeFirstWebApp\bin\EntityFramework.dll
+E:\Khem\Demo\CodeFirstDemoApplication\CodeFirstWebApp\bin\EntityFramework.SqlServer.dll
+E:\Khem\Demo\CodeFirstDemoApplication\CodeFirstWebApp\bin\Microsoft.Web.Infrastructure.dll
+E:\Khem\Demo\CodeFirstDemoApplication\CodeFirstWebApp\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Khem\Demo\CodeFirstDemoApplication\CodeFirstWebApp\bin\Newtonsoft.Json.dll
+E:\Khem\Demo\CodeFirstDemoApplication\CodeFirstWebApp\bin\System.Net.Http.Formatting.dll
+E:\Khem\Demo\CodeFirstDemoApplication\CodeFirstWebApp\bin\System.Web.Helpers.dll
+E:\Khem\Demo\CodeFirstDemoApplication\CodeFirstWebApp\bin\System.Web.Http.dll
+E:\Khem\Demo\CodeFirstDemoApplication\CodeFirstWebApp\bin\System.Web.Http.WebHost.dll
+E:\Khem\Demo\CodeFirstDemoApplication\CodeFirstWebApp\bin\System.Web.Mvc.dll
+E:\Khem\Demo\CodeFirstDemoApplication\CodeFirstWebApp\bin\System.Web.Razor.dll
+E:\Khem\Demo\CodeFirstDemoApplication\CodeFirstWebApp\bin\System.Web.WebPages.Deployment.dll
+E:\Khem\Demo\CodeFirstDemoApplication\CodeFirstWebApp\bin\System.Web.WebPages.dll
+E:\Khem\Demo\CodeFirstDemoApplication\CodeFirstWebApp\bin\System.Web.WebPages.Razor.dll
+E:\Khem\Demo\CodeFirstDemoApplication\CodeFirstWebApp\bin\CodeFirstDataAccess.pdb
+E:\Khem\Demo\CodeFirstDemoApplication\CodeFirstWebApp\bin\CodeFirstModel.pdb
+E:\Khem\Demo\CodeFirstDemoApplication\CodeFirstWebApp\bin\EntityFramework.xml
+E:\Khem\Demo\CodeFirstDemoApplication\CodeFirstWebApp\bin\EntityFramework.SqlServer.xml
+E:\Khem\Demo\CodeFirstDemoApplication\CodeFirstWebApp\bin\Newtonsoft.Json.xml
+E:\Khem\Demo\CodeFirstDemoApplication\CodeFirstWebApp\bin\System.Net.Http.Formatting.xml
+E:\Khem\Demo\CodeFirstDemoApplication\CodeFirstWebApp\bin\System.Web.Helpers.xml
+E:\Khem\Demo\CodeFirstDemoApplication\CodeFirstWebApp\bin\System.Web.Http.xml
+E:\Khem\Demo\CodeFirstDemoApplication\CodeFirstWebApp\bin\System.Web.Http.WebHost.xml
+E:\Khem\Demo\CodeFirstDemoApplication\CodeFirstWebApp\bin\System.Web.Mvc.xml
+E:\Khem\Demo\CodeFirstDemoApplication\CodeFirstWebApp\bin\System.Web.Razor.xml
+E:\Khem\Demo\CodeFirstDemoApplication\CodeFirstWebApp\bin\System.Web.WebPages.xml
+E:\Khem\Demo\CodeFirstDemoApplication\CodeFirstWebApp\bin\System.Web.WebPages.Deployment.xml
+E:\Khem\Demo\CodeFirstDemoApplication\CodeFirstWebApp\bin\System.Web.WebPages.Razor.xml
+E:\Khem\Demo\CodeFirstDemoApplication\CodeFirstWebApp\obj\Debug\CodeFirstWebApp.dll
+E:\Khem\Demo\CodeFirstDemoApplication\CodeFirstWebApp\obj\Debug\CodeFirstWebApp.pdb
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CodeFirstDemoApplicationwe\CodeFirstWebApp\bin\CodeFirstWebApp.dll.config
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CodeFirstDemoApplicationwe\CodeFirstWebApp\bin\CodeFirstWebApp.dll
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CodeFirstDemoApplicationwe\CodeFirstWebApp\bin\CodeFirstWebApp.pdb
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CodeFirstDemoApplicationwe\CodeFirstWebApp\bin\CodeFirstDataAccess.dll
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CodeFirstDemoApplicationwe\CodeFirstWebApp\bin\CodeFirstModel.dll
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CodeFirstDemoApplicationwe\CodeFirstWebApp\bin\EntityFramework.dll
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CodeFirstDemoApplicationwe\CodeFirstWebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CodeFirstDemoApplicationwe\CodeFirstWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CodeFirstDemoApplicationwe\CodeFirstWebApp\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CodeFirstDemoApplicationwe\CodeFirstWebApp\bin\Newtonsoft.Json.dll
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CodeFirstDemoApplicationwe\CodeFirstWebApp\bin\System.Web.Helpers.dll
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CodeFirstDemoApplicationwe\CodeFirstWebApp\bin\System.Web.Mvc.dll
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CodeFirstDemoApplicationwe\CodeFirstWebApp\bin\System.Web.Razor.dll
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CodeFirstDemoApplicationwe\CodeFirstWebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CodeFirstDemoApplicationwe\CodeFirstWebApp\bin\System.Web.WebPages.dll
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CodeFirstDemoApplicationwe\CodeFirstWebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CodeFirstDemoApplicationwe\CodeFirstWebApp\bin\CodeFirstDataAccess.pdb
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CodeFirstDemoApplicationwe\CodeFirstWebApp\bin\CodeFirstModel.pdb
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CodeFirstDemoApplicationwe\CodeFirstWebApp\bin\EntityFramework.xml
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CodeFirstDemoApplicationwe\CodeFirstWebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CodeFirstDemoApplicationwe\CodeFirstWebApp\bin\Newtonsoft.Json.xml
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CodeFirstDemoApplicationwe\CodeFirstWebApp\bin\System.Web.Helpers.xml
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CodeFirstDemoApplicationwe\CodeFirstWebApp\bin\System.Web.Mvc.xml
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CodeFirstDemoApplicationwe\CodeFirstWebApp\bin\System.Web.Razor.xml
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CodeFirstDemoApplicationwe\CodeFirstWebApp\bin\System.Web.WebPages.xml
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CodeFirstDemoApplicationwe\CodeFirstWebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CodeFirstDemoApplicationwe\CodeFirstWebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CodeFirstDemoApplicationwe\CodeFirstWebApp\obj\Debug\CodeFirstWebApp.csprojResolveAssemblyReference.cache
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CodeFirstDemoApplicationwe\CodeFirstWebApp\obj\Debug\CodeFirstWebApp.dll
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CodeFirstDemoApplicationwe\CodeFirstWebApp\obj\Debug\CodeFirstWebApp.pdb
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CSharp_Net-module3_1_1–lab\CodeFirstWebApp\bin\CodeFirstWebApp.dll.config
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CSharp_Net-module3_1_1–lab\CodeFirstWebApp\bin\CodeFirstWebApp.dll
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CSharp_Net-module3_1_1–lab\CodeFirstWebApp\bin\CodeFirstWebApp.pdb
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CSharp_Net-module3_1_1–lab\CodeFirstWebApp\bin\CodeFirstDataAccess.dll
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CSharp_Net-module3_1_1–lab\CodeFirstWebApp\bin\CodeFirstModel.dll
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CSharp_Net-module3_1_1–lab\CodeFirstWebApp\bin\EntityFramework.dll
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CSharp_Net-module3_1_1–lab\CodeFirstWebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CSharp_Net-module3_1_1–lab\CodeFirstWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CSharp_Net-module3_1_1–lab\CodeFirstWebApp\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CSharp_Net-module3_1_1–lab\CodeFirstWebApp\bin\Newtonsoft.Json.dll
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CSharp_Net-module3_1_1–lab\CodeFirstWebApp\bin\System.Web.Helpers.dll
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CSharp_Net-module3_1_1–lab\CodeFirstWebApp\bin\System.Web.Mvc.dll
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CSharp_Net-module3_1_1–lab\CodeFirstWebApp\bin\System.Web.Razor.dll
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CSharp_Net-module3_1_1–lab\CodeFirstWebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CSharp_Net-module3_1_1–lab\CodeFirstWebApp\bin\System.Web.WebPages.dll
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CSharp_Net-module3_1_1–lab\CodeFirstWebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CSharp_Net-module3_1_1–lab\CodeFirstWebApp\bin\CodeFirstDataAccess.pdb
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CSharp_Net-module3_1_1–lab\CodeFirstWebApp\bin\CodeFirstModel.pdb
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CSharp_Net-module3_1_1–lab\CodeFirstWebApp\bin\EntityFramework.xml
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CSharp_Net-module3_1_1–lab\CodeFirstWebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CSharp_Net-module3_1_1–lab\CodeFirstWebApp\bin\Newtonsoft.Json.xml
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CSharp_Net-module3_1_1–lab\CodeFirstWebApp\bin\System.Web.Helpers.xml
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CSharp_Net-module3_1_1–lab\CodeFirstWebApp\bin\System.Web.Mvc.xml
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CSharp_Net-module3_1_1–lab\CodeFirstWebApp\bin\System.Web.Razor.xml
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CSharp_Net-module3_1_1–lab\CodeFirstWebApp\bin\System.Web.WebPages.xml
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CSharp_Net-module3_1_1–lab\CodeFirstWebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CSharp_Net-module3_1_1–lab\CodeFirstWebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CSharp_Net-module3_1_1–lab\CodeFirstWebApp\obj\Debug\CodeFirstWebApp.csprojResolveAssemblyReference.cache
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CSharp_Net-module3_1_1–lab\CodeFirstWebApp\obj\Debug\CodeFirstWebApp.dll
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CSharp_Net-module3_1_1–lab\CodeFirstWebApp\obj\Debug\CodeFirstWebApp.pdb
+C:\Users\win7\Desktop\Group_290915\191115_211115\CSharp_Net-module3_1_1-lab -end\CodeFirstWebApp\bin\CodeFirstWebApp.dll.config
+C:\Users\win7\Desktop\Group_290915\191115_211115\CSharp_Net-module3_1_1-lab -end\CodeFirstWebApp\bin\CodeFirstWebApp.dll
+C:\Users\win7\Desktop\Group_290915\191115_211115\CSharp_Net-module3_1_1-lab -end\CodeFirstWebApp\bin\CodeFirstWebApp.pdb
+C:\Users\win7\Desktop\Group_290915\191115_211115\CSharp_Net-module3_1_1-lab -end\CodeFirstWebApp\bin\CodeFirstDataAccess.dll
+C:\Users\win7\Desktop\Group_290915\191115_211115\CSharp_Net-module3_1_1-lab -end\CodeFirstWebApp\bin\CodeFirstModel.dll
+C:\Users\win7\Desktop\Group_290915\191115_211115\CSharp_Net-module3_1_1-lab -end\CodeFirstWebApp\bin\EntityFramework.dll
+C:\Users\win7\Desktop\Group_290915\191115_211115\CSharp_Net-module3_1_1-lab -end\CodeFirstWebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\win7\Desktop\Group_290915\191115_211115\CSharp_Net-module3_1_1-lab -end\CodeFirstWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\win7\Desktop\Group_290915\191115_211115\CSharp_Net-module3_1_1-lab -end\CodeFirstWebApp\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\win7\Desktop\Group_290915\191115_211115\CSharp_Net-module3_1_1-lab -end\CodeFirstWebApp\bin\Newtonsoft.Json.dll
+C:\Users\win7\Desktop\Group_290915\191115_211115\CSharp_Net-module3_1_1-lab -end\CodeFirstWebApp\bin\System.Net.Http.Formatting.dll
+C:\Users\win7\Desktop\Group_290915\191115_211115\CSharp_Net-module3_1_1-lab -end\CodeFirstWebApp\bin\System.Web.Helpers.dll
+C:\Users\win7\Desktop\Group_290915\191115_211115\CSharp_Net-module3_1_1-lab -end\CodeFirstWebApp\bin\System.Web.Http.dll
+C:\Users\win7\Desktop\Group_290915\191115_211115\CSharp_Net-module3_1_1-lab -end\CodeFirstWebApp\bin\System.Web.Http.WebHost.dll
+C:\Users\win7\Desktop\Group_290915\191115_211115\CSharp_Net-module3_1_1-lab -end\CodeFirstWebApp\bin\System.Web.Mvc.dll
+C:\Users\win7\Desktop\Group_290915\191115_211115\CSharp_Net-module3_1_1-lab -end\CodeFirstWebApp\bin\System.Web.Razor.dll
+C:\Users\win7\Desktop\Group_290915\191115_211115\CSharp_Net-module3_1_1-lab -end\CodeFirstWebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\win7\Desktop\Group_290915\191115_211115\CSharp_Net-module3_1_1-lab -end\CodeFirstWebApp\bin\System.Web.WebPages.dll
+C:\Users\win7\Desktop\Group_290915\191115_211115\CSharp_Net-module3_1_1-lab -end\CodeFirstWebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\win7\Desktop\Group_290915\191115_211115\CSharp_Net-module3_1_1-lab -end\CodeFirstWebApp\bin\CodeFirstDataAccess.pdb
+C:\Users\win7\Desktop\Group_290915\191115_211115\CSharp_Net-module3_1_1-lab -end\CodeFirstWebApp\bin\CodeFirstModel.pdb
+C:\Users\win7\Desktop\Group_290915\191115_211115\CSharp_Net-module3_1_1-lab -end\CodeFirstWebApp\bin\EntityFramework.xml
+C:\Users\win7\Desktop\Group_290915\191115_211115\CSharp_Net-module3_1_1-lab -end\CodeFirstWebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\win7\Desktop\Group_290915\191115_211115\CSharp_Net-module3_1_1-lab -end\CodeFirstWebApp\bin\Newtonsoft.Json.xml
+C:\Users\win7\Desktop\Group_290915\191115_211115\CSharp_Net-module3_1_1-lab -end\CodeFirstWebApp\bin\System.Net.Http.Formatting.xml
+C:\Users\win7\Desktop\Group_290915\191115_211115\CSharp_Net-module3_1_1-lab -end\CodeFirstWebApp\bin\System.Web.Helpers.xml
+C:\Users\win7\Desktop\Group_290915\191115_211115\CSharp_Net-module3_1_1-lab -end\CodeFirstWebApp\bin\System.Web.Http.xml
+C:\Users\win7\Desktop\Group_290915\191115_211115\CSharp_Net-module3_1_1-lab -end\CodeFirstWebApp\bin\System.Web.Http.WebHost.xml
+C:\Users\win7\Desktop\Group_290915\191115_211115\CSharp_Net-module3_1_1-lab -end\CodeFirstWebApp\bin\System.Web.Mvc.xml
+C:\Users\win7\Desktop\Group_290915\191115_211115\CSharp_Net-module3_1_1-lab -end\CodeFirstWebApp\bin\System.Web.Razor.xml
+C:\Users\win7\Desktop\Group_290915\191115_211115\CSharp_Net-module3_1_1-lab -end\CodeFirstWebApp\bin\System.Web.WebPages.xml
+C:\Users\win7\Desktop\Group_290915\191115_211115\CSharp_Net-module3_1_1-lab -end\CodeFirstWebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\win7\Desktop\Group_290915\191115_211115\CSharp_Net-module3_1_1-lab -end\CodeFirstWebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\win7\Desktop\Group_290915\191115_211115\CSharp_Net-module3_1_1-lab -end\CodeFirstWebApp\obj\Debug\CodeFirstWebApp.csprojResolveAssemblyReference.cache
+C:\Users\win7\Desktop\Group_290915\191115_211115\CSharp_Net-module3_1_1-lab -end\CodeFirstWebApp\obj\Debug\CodeFirstWebApp.dll
+C:\Users\win7\Desktop\Group_290915\191115_211115\CSharp_Net-module3_1_1-lab -end\CodeFirstWebApp\obj\Debug\CodeFirstWebApp.pdb
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_4_2016\CSharp_Net_module3_1_3_lab_end\CodeFirstWebApp\bin\CodeFirstWebApp.dll.config
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_4_2016\CSharp_Net_module3_1_3_lab_end\CodeFirstWebApp\bin\CodeFirstWebApp.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_4_2016\CSharp_Net_module3_1_3_lab_end\CodeFirstWebApp\bin\CodeFirstWebApp.pdb
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_4_2016\CSharp_Net_module3_1_3_lab_end\CodeFirstWebApp\bin\CodeFirstDataAccess.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_4_2016\CSharp_Net_module3_1_3_lab_end\CodeFirstWebApp\bin\CodeFirstModel.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_4_2016\CSharp_Net_module3_1_3_lab_end\CodeFirstWebApp\bin\EntityFramework.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_4_2016\CSharp_Net_module3_1_3_lab_end\CodeFirstWebApp\bin\EntityFramework.SqlServer.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_4_2016\CSharp_Net_module3_1_3_lab_end\CodeFirstWebApp\bin\Microsoft.Web.Infrastructure.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_4_2016\CSharp_Net_module3_1_3_lab_end\CodeFirstWebApp\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_4_2016\CSharp_Net_module3_1_3_lab_end\CodeFirstWebApp\bin\Newtonsoft.Json.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_4_2016\CSharp_Net_module3_1_3_lab_end\CodeFirstWebApp\bin\System.Net.Http.Formatting.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_4_2016\CSharp_Net_module3_1_3_lab_end\CodeFirstWebApp\bin\System.Web.Helpers.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_4_2016\CSharp_Net_module3_1_3_lab_end\CodeFirstWebApp\bin\System.Web.Http.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_4_2016\CSharp_Net_module3_1_3_lab_end\CodeFirstWebApp\bin\System.Web.Http.WebHost.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_4_2016\CSharp_Net_module3_1_3_lab_end\CodeFirstWebApp\bin\System.Web.Mvc.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_4_2016\CSharp_Net_module3_1_3_lab_end\CodeFirstWebApp\bin\System.Web.Razor.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_4_2016\CSharp_Net_module3_1_3_lab_end\CodeFirstWebApp\bin\System.Web.WebPages.Deployment.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_4_2016\CSharp_Net_module3_1_3_lab_end\CodeFirstWebApp\bin\System.Web.WebPages.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_4_2016\CSharp_Net_module3_1_3_lab_end\CodeFirstWebApp\bin\System.Web.WebPages.Razor.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_4_2016\CSharp_Net_module3_1_3_lab_end\CodeFirstWebApp\bin\CodeFirstDataAccess.pdb
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_4_2016\CSharp_Net_module3_1_3_lab_end\CodeFirstWebApp\bin\CodeFirstModel.pdb
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_4_2016\CSharp_Net_module3_1_3_lab_end\CodeFirstWebApp\bin\EntityFramework.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_4_2016\CSharp_Net_module3_1_3_lab_end\CodeFirstWebApp\bin\EntityFramework.SqlServer.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_4_2016\CSharp_Net_module3_1_3_lab_end\CodeFirstWebApp\bin\Newtonsoft.Json.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_4_2016\CSharp_Net_module3_1_3_lab_end\CodeFirstWebApp\bin\System.Net.Http.Formatting.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_4_2016\CSharp_Net_module3_1_3_lab_end\CodeFirstWebApp\bin\System.Web.Helpers.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_4_2016\CSharp_Net_module3_1_3_lab_end\CodeFirstWebApp\bin\System.Web.Http.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_4_2016\CSharp_Net_module3_1_3_lab_end\CodeFirstWebApp\bin\System.Web.Http.WebHost.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_4_2016\CSharp_Net_module3_1_3_lab_end\CodeFirstWebApp\bin\System.Web.Mvc.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_4_2016\CSharp_Net_module3_1_3_lab_end\CodeFirstWebApp\bin\System.Web.Razor.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_4_2016\CSharp_Net_module3_1_3_lab_end\CodeFirstWebApp\bin\System.Web.WebPages.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_4_2016\CSharp_Net_module3_1_3_lab_end\CodeFirstWebApp\bin\System.Web.WebPages.Deployment.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_4_2016\CSharp_Net_module3_1_3_lab_end\CodeFirstWebApp\bin\System.Web.WebPages.Razor.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_4_2016\CSharp_Net_module3_1_3_lab_end\CodeFirstWebApp\obj\Debug\CodeFirstWebApp.csprojResolveAssemblyReference.cache
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_4_2016\CSharp_Net_module3_1_3_lab_end\CodeFirstWebApp\obj\Debug\CodeFirstWebApp.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_4_2016\CSharp_Net_module3_1_3_lab_end\CodeFirstWebApp\obj\Debug\CodeFirstWebApp.pdb
+Z:\Downloads\Approg_lab5_begin\CodeFirstWebApp\obj\Debug\CodeFirstWebApp.csprojResolveAssemblyReference.cache
+Z:\Downloads\Approg_lab5_begin\CodeFirstWebApp\obj\Debug\CodeFirstWebApp.dll
+Z:\Downloads\Approg_lab5_begin\CodeFirstWebApp\obj\Debug\CodeFirstWebApp.pdb
+Z:\Downloads\Approg_lab5_begin\CodeFirstWebApp\bin\CodeFirstWebApp.dll.config
+Z:\Downloads\Approg_lab5_begin\CodeFirstWebApp\bin\CodeFirstWebApp.dll
+Z:\Downloads\Approg_lab5_begin\CodeFirstWebApp\bin\CodeFirstWebApp.pdb
+Z:\Downloads\Approg_lab5_begin\CodeFirstWebApp\bin\CodeFirstDataAccess.dll
+Z:\Downloads\Approg_lab5_begin\CodeFirstWebApp\bin\CodeFirstModel.dll
+Z:\Downloads\Approg_lab5_begin\CodeFirstWebApp\bin\EntityFramework.dll
+Z:\Downloads\Approg_lab5_begin\CodeFirstWebApp\bin\EntityFramework.SqlServer.dll
+Z:\Downloads\Approg_lab5_begin\CodeFirstWebApp\bin\Microsoft.Web.Infrastructure.dll
+Z:\Downloads\Approg_lab5_begin\CodeFirstWebApp\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+Z:\Downloads\Approg_lab5_begin\CodeFirstWebApp\bin\Newtonsoft.Json.dll
+Z:\Downloads\Approg_lab5_begin\CodeFirstWebApp\bin\System.Net.Http.Formatting.dll
+Z:\Downloads\Approg_lab5_begin\CodeFirstWebApp\bin\System.Web.Helpers.dll
+Z:\Downloads\Approg_lab5_begin\CodeFirstWebApp\bin\System.Web.Http.dll
+Z:\Downloads\Approg_lab5_begin\CodeFirstWebApp\bin\System.Web.Http.WebHost.dll
+Z:\Downloads\Approg_lab5_begin\CodeFirstWebApp\bin\System.Web.Mvc.dll
+Z:\Downloads\Approg_lab5_begin\CodeFirstWebApp\bin\System.Web.Razor.dll
+Z:\Downloads\Approg_lab5_begin\CodeFirstWebApp\bin\System.Web.WebPages.Deployment.dll
+Z:\Downloads\Approg_lab5_begin\CodeFirstWebApp\bin\System.Web.WebPages.dll
+Z:\Downloads\Approg_lab5_begin\CodeFirstWebApp\bin\System.Web.WebPages.Razor.dll
+Z:\Downloads\Approg_lab5_begin\CodeFirstWebApp\bin\CodeFirstDataAccess.pdb
+Z:\Downloads\Approg_lab5_begin\CodeFirstWebApp\bin\CodeFirstModel.pdb
+Z:\Downloads\Approg_lab5_begin\CodeFirstWebApp\bin\EntityFramework.xml
+Z:\Downloads\Approg_lab5_begin\CodeFirstWebApp\bin\EntityFramework.SqlServer.xml
+Z:\Downloads\Approg_lab5_begin\CodeFirstWebApp\bin\Newtonsoft.Json.xml
+Z:\Downloads\Approg_lab5_begin\CodeFirstWebApp\bin\System.Net.Http.Formatting.xml
+Z:\Downloads\Approg_lab5_begin\CodeFirstWebApp\bin\System.Web.Helpers.xml
+Z:\Downloads\Approg_lab5_begin\CodeFirstWebApp\bin\System.Web.Http.xml
+Z:\Downloads\Approg_lab5_begin\CodeFirstWebApp\bin\System.Web.Http.WebHost.xml
+Z:\Downloads\Approg_lab5_begin\CodeFirstWebApp\bin\System.Web.Mvc.xml
+Z:\Downloads\Approg_lab5_begin\CodeFirstWebApp\bin\System.Web.Razor.xml
+Z:\Downloads\Approg_lab5_begin\CodeFirstWebApp\bin\System.Web.WebPages.xml
+Z:\Downloads\Approg_lab5_begin\CodeFirstWebApp\bin\System.Web.WebPages.Deployment.xml
+Z:\Downloads\Approg_lab5_begin\CodeFirstWebApp\bin\System.Web.WebPages.Razor.xml

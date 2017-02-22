@@ -1,0 +1,49 @@
+﻿@model List<CodeFirstWebApp.Models.BookModel>
+@{
+    Layout = null;
+}
+<h1>Book Informations</h1>
+@if (Model != null)
+{
+
+    <div>
+        <table cellspacing="0"width="50%" border="1">
+            <thead>
+                <tr>
+                    <th>
+                        Book Name
+                    </th>
+                    <th>
+                        Author
+                    </th>
+                    <th>
+                        Edition
+                    </th>
+                    <th>
+                        Publish Name
+                    </th>
+                   
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var book in Model)
+                {
+                    <tr>
+                        <td align="center">
+                            @book.BookName
+                        </td>
+                        <td align="center">
+                            @book.Author
+                        </td>
+                        <td align="center">
+                            @book.Edition
+                        </td>
+                        <td align="center">
+                            @book.Publishing
+                        </td>                       
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}

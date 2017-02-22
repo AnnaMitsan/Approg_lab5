@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{24019CDF-AA84-4129-B432-130274423381}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CodeFirstWebApp/Controllers/BookController.cs">
+    <Files>
+      <File FileName="CodeFirstModel/Book.cs" Line="1" Column="1" />
+      <File FileName="CodeFirstDataAccess/BookEntityContext.cs" Line="1" Column="1" />
+      <File FileName="CodeFirstWebApp/Controllers/BookController.cs" Line="74" Column="28" />
+      <File FileName="CodeFirstWebApp/Models/BookModel.cs" Line="1" Column="1" />
+      <File FileName="CodeFirstWebApp/Web.config" Line="55" Column="3" />
+      <File FileName="CodeFirstWebApp/Views/Book/Index.cshtml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CodeFirstWebApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

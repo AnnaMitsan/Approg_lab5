@@ -1,0 +1,72 @@
+E:\Khem\Demo\CodeFirstDemoApplication\CodeFirstDataAccess\bin\Debug\CodeFirstDataAccess.dll.config
+E:\Khem\Demo\CodeFirstDemoApplication\CodeFirstDataAccess\bin\Debug\CodeFirstDataAccess.dll
+E:\Khem\Demo\CodeFirstDemoApplication\CodeFirstDataAccess\bin\Debug\CodeFirstDataAccess.pdb
+E:\Khem\Demo\CodeFirstDemoApplication\CodeFirstDataAccess\bin\Debug\CodeFirstModel.dll
+E:\Khem\Demo\CodeFirstDemoApplication\CodeFirstDataAccess\bin\Debug\EntityFramework.dll
+E:\Khem\Demo\CodeFirstDemoApplication\CodeFirstDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+E:\Khem\Demo\CodeFirstDemoApplication\CodeFirstDataAccess\bin\Debug\CodeFirstModel.pdb
+E:\Khem\Demo\CodeFirstDemoApplication\CodeFirstDataAccess\bin\Debug\EntityFramework.xml
+E:\Khem\Demo\CodeFirstDemoApplication\CodeFirstDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+E:\Khem\Demo\CodeFirstDemoApplication\CodeFirstDataAccess\obj\Debug\CodeFirstDataAccess.csprojResolveAssemblyReference.cache
+E:\Khem\Demo\CodeFirstDemoApplication\CodeFirstDataAccess\obj\Debug\CodeFirstDataAccess.dll
+E:\Khem\Demo\CodeFirstDemoApplication\CodeFirstDataAccess\obj\Debug\CodeFirstDataAccess.pdb
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CodeFirstDemoApplicationwe\CodeFirstDataAccess\bin\Debug\CodeFirstDataAccess.dll.config
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CodeFirstDemoApplicationwe\CodeFirstDataAccess\bin\Debug\CodeFirstDataAccess.dll
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CodeFirstDemoApplicationwe\CodeFirstDataAccess\bin\Debug\CodeFirstDataAccess.pdb
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CodeFirstDemoApplicationwe\CodeFirstDataAccess\bin\Debug\CodeFirstModel.dll
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CodeFirstDemoApplicationwe\CodeFirstDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CodeFirstDemoApplicationwe\CodeFirstDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CodeFirstDemoApplicationwe\CodeFirstDataAccess\bin\Debug\CodeFirstModel.pdb
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CodeFirstDemoApplicationwe\CodeFirstDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CodeFirstDemoApplicationwe\CodeFirstDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CodeFirstDemoApplicationwe\CodeFirstDataAccess\obj\Debug\CodeFirstDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CodeFirstDemoApplicationwe\CodeFirstDataAccess\obj\Debug\CodeFirstDataAccess.dll
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CodeFirstDemoApplicationwe\CodeFirstDataAccess\obj\Debug\CodeFirstDataAccess.pdb
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CSharp_Net-module3_1_1–lab\CodeFirstDataAccess\bin\Debug\CodeFirstDataAccess.dll.config
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CSharp_Net-module3_1_1–lab\CodeFirstDataAccess\bin\Debug\CodeFirstDataAccess.dll
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CSharp_Net-module3_1_1–lab\CodeFirstDataAccess\bin\Debug\CodeFirstDataAccess.pdb
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CSharp_Net-module3_1_1–lab\CodeFirstDataAccess\bin\Debug\CodeFirstModel.dll
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CSharp_Net-module3_1_1–lab\CodeFirstDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CSharp_Net-module3_1_1–lab\CodeFirstDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CSharp_Net-module3_1_1–lab\CodeFirstDataAccess\bin\Debug\CodeFirstModel.pdb
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CSharp_Net-module3_1_1–lab\CodeFirstDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CSharp_Net-module3_1_1–lab\CodeFirstDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CSharp_Net-module3_1_1–lab\CodeFirstDataAccess\obj\Debug\CodeFirstDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CSharp_Net-module3_1_1–lab\CodeFirstDataAccess\obj\Debug\CodeFirstDataAccess.dll
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_1\Labs\3_1_3\CSharp_Net-module3_1_1–lab\CodeFirstDataAccess\obj\Debug\CodeFirstDataAccess.pdb
+C:\Users\win7\Desktop\Group_290915\191115_211115\CSharp_Net-module3_1_1-lab -end\CodeFirstDataAccess\bin\Debug\CodeFirstDataAccess.dll.config
+C:\Users\win7\Desktop\Group_290915\191115_211115\CSharp_Net-module3_1_1-lab -end\CodeFirstDataAccess\bin\Debug\CodeFirstDataAccess.dll
+C:\Users\win7\Desktop\Group_290915\191115_211115\CSharp_Net-module3_1_1-lab -end\CodeFirstDataAccess\bin\Debug\CodeFirstDataAccess.pdb
+C:\Users\win7\Desktop\Group_290915\191115_211115\CSharp_Net-module3_1_1-lab -end\CodeFirstDataAccess\bin\Debug\CodeFirstModel.dll
+C:\Users\win7\Desktop\Group_290915\191115_211115\CSharp_Net-module3_1_1-lab -end\CodeFirstDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\win7\Desktop\Group_290915\191115_211115\CSharp_Net-module3_1_1-lab -end\CodeFirstDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\win7\Desktop\Group_290915\191115_211115\CSharp_Net-module3_1_1-lab -end\CodeFirstDataAccess\bin\Debug\CodeFirstModel.pdb
+C:\Users\win7\Desktop\Group_290915\191115_211115\CSharp_Net-module3_1_1-lab -end\CodeFirstDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\win7\Desktop\Group_290915\191115_211115\CSharp_Net-module3_1_1-lab -end\CodeFirstDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\win7\Desktop\Group_290915\191115_211115\CSharp_Net-module3_1_1-lab -end\CodeFirstDataAccess\obj\Debug\CodeFirstDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\win7\Desktop\Group_290915\191115_211115\CSharp_Net-module3_1_1-lab -end\CodeFirstDataAccess\obj\Debug\CodeFirstDataAccess.dll
+C:\Users\win7\Desktop\Group_290915\191115_211115\CSharp_Net-module3_1_1-lab -end\CodeFirstDataAccess\obj\Debug\CodeFirstDataAccess.pdb
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_4_2016\CSharp_Net_module3_1_3_lab_end\CodeFirstDataAccess\bin\Debug\CodeFirstDataAccess.dll.config
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_4_2016\CSharp_Net_module3_1_3_lab_end\CodeFirstDataAccess\bin\Debug\CodeFirstDataAccess.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_4_2016\CSharp_Net_module3_1_3_lab_end\CodeFirstDataAccess\bin\Debug\CodeFirstDataAccess.pdb
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_4_2016\CSharp_Net_module3_1_3_lab_end\CodeFirstDataAccess\bin\Debug\CodeFirstModel.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_4_2016\CSharp_Net_module3_1_3_lab_end\CodeFirstDataAccess\bin\Debug\EntityFramework.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_4_2016\CSharp_Net_module3_1_3_lab_end\CodeFirstDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_4_2016\CSharp_Net_module3_1_3_lab_end\CodeFirstDataAccess\bin\Debug\CodeFirstModel.pdb
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_4_2016\CSharp_Net_module3_1_3_lab_end\CodeFirstDataAccess\bin\Debug\EntityFramework.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_4_2016\CSharp_Net_module3_1_3_lab_end\CodeFirstDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_4_2016\CSharp_Net_module3_1_3_lab_end\CodeFirstDataAccess\obj\Debug\CodeFirstDataAccess.csprojResolveAssemblyReference.cache
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_4_2016\CSharp_Net_module3_1_3_lab_end\CodeFirstDataAccess\obj\Debug\CodeFirstDataAccess.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_4_2016\CSharp_Net_module3_1_3_lab_end\CodeFirstDataAccess\obj\Debug\CodeFirstDataAccess.pdb
+Z:\Downloads\Approg_lab5_begin\CodeFirstDataAccess\bin\Debug\CodeFirstDataAccess.dll.config
+Z:\Downloads\Approg_lab5_begin\CodeFirstDataAccess\bin\Debug\CodeFirstDataAccess.dll
+Z:\Downloads\Approg_lab5_begin\CodeFirstDataAccess\bin\Debug\CodeFirstDataAccess.pdb
+Z:\Downloads\Approg_lab5_begin\CodeFirstDataAccess\bin\Debug\CodeFirstModel.dll
+Z:\Downloads\Approg_lab5_begin\CodeFirstDataAccess\bin\Debug\EntityFramework.dll
+Z:\Downloads\Approg_lab5_begin\CodeFirstDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+Z:\Downloads\Approg_lab5_begin\CodeFirstDataAccess\bin\Debug\CodeFirstModel.pdb
+Z:\Downloads\Approg_lab5_begin\CodeFirstDataAccess\bin\Debug\EntityFramework.xml
+Z:\Downloads\Approg_lab5_begin\CodeFirstDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+Z:\Downloads\Approg_lab5_begin\CodeFirstDataAccess\obj\Debug\CodeFirstDataAccess.csprojResolveAssemblyReference.cache
+Z:\Downloads\Approg_lab5_begin\CodeFirstDataAccess\obj\Debug\CodeFirstDataAccess.dll
+Z:\Downloads\Approg_lab5_begin\CodeFirstDataAccess\obj\Debug\CodeFirstDataAccess.pdb
